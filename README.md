@@ -28,12 +28,7 @@ Some questions to ask yourself:
 * Does my website describe its intent?
 
 
-### Challenge:
-
-If you take a look at the Timepot website, you will notice that there are several animations happening on scroll. Try to add a animation that triggers when scrolling thru specific sections of your one page website.
-
-
-##Completion Requirements:
+## Completion Requirements:
 
 The completed assignment should:
 
